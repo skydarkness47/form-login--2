@@ -24,7 +24,7 @@
     			<p class="contact"><label for="email">CORREO ELECTRONICO</label></p> 
     			<input id="email" name="email" placeholder="ejemplo@domain.com" required="" type="email"> 
 
-                <p class="contact"><label for="password">INGRESE UNA CONTRASEÑA</label></p> 
+                <p class="contact"><label for="password">INGRESE SU CONTRASEÑA</label></p> 
     			<input type="password" id="password" name="password" required=""> 
 
 
